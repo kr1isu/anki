@@ -93,6 +93,7 @@ to rename local image repo = `docker tag image-id repo:tag`
 `docker tag` on local image = `docker tag <image-id> <repo:tag>`
 tag image on local repository = `docker tag <repo:tag> <dockerHub:tag>`
 list info about container = `docker inspect `
+list info about docker process = `docker info`
 
 #### volume
 
